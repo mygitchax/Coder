@@ -1,0 +1,36 @@
+body{
+ background: url(Images/Food1.jpeg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+
+}
+h2{
+  color: aquamarine;
+  text-align: center;
+  font-size: 4em;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+
+
+}
+div{
+  border: 2px solid snow;
+  width: auto;
+  color: darkblue;
+  text-align: center;
+  margin: 100px 100px;
+  border-radius: 25px;
+  background-color: coral;
+  opacity: 0.6;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 2em;
+}
+button{
+  background: cornsilk;
+  padding: 20px;
+  border-radius: 10px;
+  color: black;
+  font-size: 2em;
+  font-family: 'Srisakdi', cursive;
+}

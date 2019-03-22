@@ -1,0 +1,20 @@
+
+*{
+  margin: 0px; border: 0px;
+}
+body{
+background-image: url("Images/dbdog.jpg");
+background-origin: center;
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+h1{
+  text-align: center;
+  color: aliceblue;
+  border:3px solid salmon;
+
+  width: 350px;
+  padding: 20px;
+  margin: 100px auto;
+}

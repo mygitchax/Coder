@@ -1,0 +1,17 @@
+how to choose the colors......
+  1--color:(ctrl+space)
+  2--color:#fcfcfc;
+  3--color:rgb(100,20,50)
+  some web sites for color---
+background color-- (bgc)
+inorder to go back in images use(../images/icom.jpg)
+----propertys----
+  1) no-repeat
+  2)center fixed
+  3)background-size: cover;--to make image in center.
+BACKGROUND IMAGES
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+check with padding and margin everyday.

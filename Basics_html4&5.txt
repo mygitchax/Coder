@@ -1,0 +1,46 @@
+to create the html we have to do ! an Tab....
+Short cut keys
+to make comment(ctrl+/) <!--comment-->
+multiple unorder or order list (ul>li*3)(3-- number of rows)
+paragraf (p>lorem*20)(20--number of words)
+##Forms##
+#Images
+#Tables# 
+  --Tr---Tables rows
+  --Tb-- table data
+  --Tb-- Table Header
+      <table>
+        <th>
+        </th>
+        <td>
+        </td>
+      </table>
+VIDEO Tags
+we can do with 2 types for video tags.
+1 method
+  To creat video Tags 
+      <video src="url" width="250px" height="250px" controls></video>
+2 method
+  first creat video tag and the create source for the link.
+    <videos width="350px" height="250px">
+      <source src="url link">
+    </videos>
+
+Audio tag
+  <audio src="url link " width="250px" height="350px" controls></audio>
+Youtube
+ go to Youtube and select share button--> click on ebaded--> copy the embaded and paste the link.
+  it has supprate attribte i.e is <iframe></iframe>
+        <iframe >
+        </iframe>
+
+For Input button:
+    input:text// Short key for input tag. 
+Placeholder:- in HTML5
+
+
+        267-662-1225
+
+  --> Favicons:---
+  -->opacity:--
+  

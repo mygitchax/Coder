@@ -1,0 +1,21 @@
+body{
+  background-image: url(Images/cab.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+h1{
+  color: aquamarine;
+  width: auto;
+  text-align: center;
+  border: 3px solid aquamarine;
+  margin: 250pxl auto;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+div{
+  width: auto;
+  height: 300px;
+  border: whitesmoke;
+}

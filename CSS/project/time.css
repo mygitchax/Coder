@@ -1,0 +1,12 @@
+body{
+  background-color: #f0f8ff;
+  height: 100%;
+  
+}
+video{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  margin-left: -50%;
+  margin-top: -20%;
+}

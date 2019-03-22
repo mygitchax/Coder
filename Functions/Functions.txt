@@ -1,0 +1,17 @@
+Functions:---
+                  Parameters (or) Arguments
+                  ___|_____
+                  |      |
+  functions go(First, Second){
+    sum = (First + Second)
+  }
+  go (20, 30);
+  
+      (or)
+  
+  functions go (Name, age){
+    alert('Name')
+    alert('age')
+  }
+       
+  go(Name, age);

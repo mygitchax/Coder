@@ -1,0 +1,18 @@
+body{
+  background: url(Images/Food.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h2{
+    color: aquamarine;
+    text-align: center;
+    margin: 200px auto;
+    padding: 20px;
+    border: 3px solid whitesmoke;
+}
+div{
+  width: auto;
+  height:30px;  
+}
